@@ -56,7 +56,6 @@
   "peerDependencies": {
     "react": "16.4.2",
     "react-native": "^0.48.3",
-    "rn-fetch-blob": "0.10.12"
   },
   "devDependencies": {
     "babel-jest": "^23.4.2",
@@ -65,6 +64,7 @@
     "jest": "^23.4.2",
     "jest-react-native": "^18.0.0",
     "react-test-renderer": "^16.4.2",
-    "regenerator-runtime": "^0.12.1"
+    "regenerator-runtime": "^0.12.1",
+    "rn-fetch-blob": "0.10.12"
   }
 }
