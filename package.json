@@ -1,6 +1,6 @@
 {
   "name": "react-native-cached-image",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "CachedImage component for react-native",
   "main": "index.js",
   "scripts": {
@@ -54,16 +54,16 @@
     "url-parse": "1.4.3"
   },
   "peerDependencies": {
-    "react": "16.5.1",
-    "react-native": "^0.48.3"
+    "react": "16.5.2",
+    "react-native": "^0.57.1"
   },
   "devDependencies": {
-    "babel-jest": "^23.4.2",
+    "babel-jest": "^23.6.0",
     "babel-preset-env": "*",
     "babel-preset-react-native": "^4.0.1",
-    "jest": "^23.4.2",
+    "jest": "^23.6.0",
     "jest-react-native": "^18.0.0",
-    "react-test-renderer": "^16.4.2",
+    "react-test-renderer": "^16.5.2",
     "regenerator-runtime": "^0.12.1",
     "rn-fetch-blob": "0.10.13"
   }
