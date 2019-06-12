@@ -12,11 +12,12 @@ const flattenStyle = ReactNative.StyleSheet.flatten;
 
 const ImageCacheManager = require('./ImageCacheManager');
 
+const NetInfo = require("@react-native-community/netinfo");
+
 const {
     View,
     ImageBackground,
     ActivityIndicator,
-    NetInfo,
     Platform,
     StyleSheet,
 } = ReactNative;
